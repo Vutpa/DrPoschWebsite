@@ -1,2 +1,5 @@
-.orange {
-color: #F88017; }
+button, .button {
+  background-color: #FF8040;
+  border-color: #EA4E00;}
+  button:hover, button:focus, .button:hover, .button:focus {
+    background-color: #FF691E; }
